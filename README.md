@@ -7,11 +7,15 @@ O gráfico de radar apresenta o desempenho do Sistema de Gestão de Segurança d
 
 Neste caso hipotético, o Sistema de Gestão de Segurança de Alimentos obteve as seguintes pontuações (de 0 a 10) para cada área de enfoque:
 
--Identificação de Perigos: 8
--Avaliação de Riscos: 7
--Medidas de Controle: 6
--Procedimentos de Monitoramento: 9
--Gestão de Requisitos Legais: 8
+ - Identificação de Perigos: 8
+ 
+ - Avaliação de Riscos: 7
+ 
+ - Medidas de Controle: 6
+ 
+ - Procedimentos de Monitoramento: 9
+ 
+ - Gestão de Requisitos Legais: 8
 
 Observando o gráfico, podemos perceber que o sistema apresenta um bom desempenho na Identificação de Perigos e na Gestão de Requisitos Legais, pois essas áreas estão mais afastadas do centro do gráfico, indicando pontuações mais altas. Por outro lado, as áreas de Medidas de Controle e Avaliação de Riscos apresentam pontuações mais baixas, estando mais próximas do centro do gráfico.
 
