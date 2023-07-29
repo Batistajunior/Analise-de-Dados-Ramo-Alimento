@@ -1,6 +1,8 @@
 # Analise-de-Dados-Ramo-TBCA-Tabela Brasileira de Composição Alimentos.
 Foi usado o ISO 22000 é uma norma internacional de sistema de gestão da segurança de alimentos. Ela foi desenvolvida pela Organização Internacional de Normalização (ISO) e tem como objetivo fornecer diretrizes para estabelecer, implementar, manter e melhorar um sistema de gestão da segurança de alimentos em toda a cadeia alimentar.
 
+Dados baixado pelo Kaggle
+https://www.kaggle.com/datasets/claudiapastorello/tbca-tabela-brasileira-de-composio-alimentos
 
 
 O gráfico de radar apresenta o desempenho do Sistema de Gestão de Segurança de Alimentos com base em cinco áreas de enfoque: Identificação de Perigos, Avaliação de Riscos, Medidas de Controle, Procedimentos de Monitoramento e Gestão de Requisitos Legais. Cada área de enfoque é representada por um eixo no gráfico, e a pontuação de desempenho para cada área é mostrada pela distância da linha traçada em relação ao centro do gráfico.
